@@ -1,0 +1,8 @@
+.header{
+    background-color: gold;(255, 238, 0)
+}
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
